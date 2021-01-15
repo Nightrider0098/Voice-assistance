@@ -1,0 +1,7 @@
+scipy
+sounddevice
+
+wheel
+pipwin
+#  install through pipwin pyaudio
+pyttsx
